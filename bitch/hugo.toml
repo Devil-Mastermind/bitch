@@ -1,0 +1,4 @@
+baseURL = 'http://bitch.github.io/'
+languageCode = 'en-us'
+title = 'Bitch'
+theme = "Hugo-Theme-Hello-Friend-Ng"
